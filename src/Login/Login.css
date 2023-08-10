@@ -1,0 +1,29 @@
+.bg{
+    background-image: url('l1.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 110vh; /* Set the height to occupy the entire viewport */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.login{
+    margin-left: 800px;
+    margin-top: 10px;
+}
+.textcontain{
+    font-size: large;
+    font-family: monospace;
+    text-align: justify;
+    width: 280px;
+    margin-top: 50px;
+    margin-right: -200px;
+}
+p{
+    font-weight: bold;
+}
+.clickhere{
+    color: blue;
+}
